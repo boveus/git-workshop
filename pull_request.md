@@ -8,4 +8,4 @@ base/compare
 reviewers/assignees
 create pull request
 merge pull request
-delete branch
+delete BRANCH
