@@ -13,15 +13,3 @@ git add .
 git commit -m'added things to file'
 git checkout master
 git merge new_branch
-
-PULL REQUESTS
--------------
-git checkout -b 'pull_request'
-git push origin pull_request
-hub browse
-compare & pull request
-base/compare
-reviewers/assignees
-create pull request
-merge pull request
-delete branch
