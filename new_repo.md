@@ -3,7 +3,7 @@ CREATING NEW REPO AND SYNCING WITH GITHUB
 git init
 touch 'new_file.md'
 git add .
-git commit -m'add initial commit'
+git commit -m'Add initial commit'
 hub create
 OR gem install hub
 hub browse
